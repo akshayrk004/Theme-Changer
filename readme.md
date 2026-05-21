@@ -19,7 +19,7 @@ Tailwind CSS
 Font Awesome
 JavaScript
 
-[live@](https://github.com/akshayrk004/Theme-Changer)
+[live@](https://themechangerr.netlify.app/)
 
 ![img](download%20(3).png)
 ![image](download%20(4).png)
